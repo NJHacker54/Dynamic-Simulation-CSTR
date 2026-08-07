@@ -344,5 +344,17 @@ Thapar Institute of Engineering and Technology
 - Process Optimization
 - Industrial Data Analytics
 
+**Palak**
+
+B.E. Chemical Engineering  
+Thapar Institute of Engineering and Technology
+
+**Interests**
+ - Microsoft Excel Automation
+ - Engineering Data Visualization
+ - Process Modeling
+ - Numerical Methods
+ - Technical Documentation
+
 
 ⭐ If you found this project useful, consider starring the repository.
