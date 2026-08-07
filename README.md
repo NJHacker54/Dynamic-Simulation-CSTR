@@ -344,12 +344,5 @@ Thapar Institute of Engineering and Technology
 - Process Optimization
 - Industrial Data Analytics
 
----
-
-# License
-
-This project is released under the **MIT License** and may be used for educational and research purposes.
-
----
 
 ⭐ If you found this project useful, consider starring the repository.
