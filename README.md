@@ -99,14 +99,11 @@ The simulation is based on solving coupled nonlinear differential equations.
 
 ## Material Balance
 
-For component A,
-
-\[
+$$
 V\frac{dC_A}{dt}
 =
 F(C_{A0}-C_A)-Vr_A
-\]
-
+$$
 where
 
 - \(V\) = Reactor volume
