@@ -44,8 +44,7 @@ The project was developed to:
 - Time-dependent concentration calculations
 - Temperature prediction
 - Conversion estimation
-- Heat generation calculations
-- Heat removal calculations
+
 
 ---
 
