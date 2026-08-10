@@ -258,27 +258,6 @@ This simulator can be used for
 - Chemical Reaction Engineering Principles
 
 ---
-
-# Repository Structure
-
-```
-Dynamic-CSTR-Simulator/
-
-│
-├── CSTR.xlsx
-├── README.md
-├── LICENSE
-│
-├── Images/
-│   ├── Dashboard.png
-│   ├── Temperature_Profile.png
-│   ├── Concentration_Profile.png
-│   └── Flowchart.png
-│
-└── Documentation/
-    └── Report.pdf
-```
-
 ---
 
 # Future Improvements
