@@ -98,11 +98,9 @@ The simulation is based on solving coupled nonlinear differential equations.
 
 ## Material Balance
 
-$$
-V\frac{dC_A}{dt}
-=
-F(C_{A0}-C_A)-Vr_A
-$$
+
+<img width="557" height="113" alt="Screenshot 2026-08-11 154949" src="https://github.com/user-attachments/assets/3d056c17-31ab-44a5-bda3-2a8bb7499d3b" />
+
 where
 
 - \(V\) = Reactor volume
