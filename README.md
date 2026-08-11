@@ -113,7 +113,7 @@ where
 
 ## Reaction Kinetics
 
-For a first-order reaction,
+
 <img width="245" height="71" alt="Screenshot 2026-08-11 155456" src="https://github.com/user-attachments/assets/225c7889-0ad3-4187-980b-61bd031f8463" />
 
 
