@@ -142,16 +142,8 @@ where
 
 The transient energy balance is
 
-\[
-\rho C_pV
-\frac{dT}{dt}
-=
-\rho C_pF(T_0-T)
-+
-(-\Delta H)V r_A
--
-UA(T-T_c)
-\]
+<img width="1986" height="207" alt="Screenshot 2026-08-11 155243" src="https://github.com/user-attachments/assets/5ad955cc-ebcb-4d98-aa90-f604d8b50dc7" />
+
 
 The model simultaneously accounts for
 
