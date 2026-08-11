@@ -114,20 +114,12 @@ where
 ## Reaction Kinetics
 
 For a first-order reaction,
+<img width="245" height="71" alt="Screenshot 2026-08-11 155456" src="https://github.com/user-attachments/assets/225c7889-0ad3-4187-980b-61bd031f8463" />
 
-\[
-r_A=kC_A
-\]
 
 The temperature-dependent reaction rate constant is given by the Arrhenius equation,
+<img width="453" height="145" alt="Screenshot 2026-08-11 155421" src="https://github.com/user-attachments/assets/7aa0a65c-2476-4ff4-89f9-3079dd1f1b3b" />
 
-\[
-k=k_0
-\exp
-\left(
--\frac{E}{RT}
-\right)
-\]
 
 where
 
